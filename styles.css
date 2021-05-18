@@ -1,1 +1,102 @@
 /* Style at least 3 tags and 3 classes here */
+.social {
+    text-align:center;
+    padding-top:1rem;
+    font-size:3rem;
+}
+hr {
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:1rem;
+    margin-bottom:1rem;
+}
+
+i {
+    padding-left:.25rem;
+    padding-right:.25rem;
+    margin-left:.25rem;
+    margin-right:.25rem;
+    padding-bottom:1.75rem;
+}
+
+footer {
+    padding-top:1.5rem;
+    text-align:center;
+    background-color:#36313A;
+    color:white;
+}
+
+.footer-bottom {
+    background-color:#201d23;
+    padding:1rem;
+    margin:none;
+}
+
+footer a {
+    color:#afadb0;
+    text-decoration:none;
+}
+footer a:hover {
+    color:#726f75;
+}
+
+.fa-facebook-square {
+    color:#4267B2;
+}
+.fa-facebook-square:hover{
+    color:#283e6b;
+}
+
+.fa-twitter-square {
+    color:#1DA1F2
+}
+.fa-twitter-square:hover {
+    color:#116191;
+}
+
+.fa-instagram-square {
+    color:#bc2a8d;
+}
+.fa-instagram-square:hover {
+    color:#711955;
+}
+
+.fa-lastfm-square {
+    color:#C3000D;
+}
+.fa-lastfm-square:hover {
+    color:#750008;
+}
+
+.logo {
+    height:5rem;
+    width:auto;
+    padding:.15rem;
+}
+
+.heading {
+    font-size:2.5rem;
+    text-align:center;
+    padding-top:1.75rem;
+    padding-bottom:1.75rem;
+}
+
+.name {
+    font-size:1.75rem;
+    padding-bottom:.25rem;
+    text-decoration:underline;
+}
+
+.about-img {
+    width:100%;
+    height:auto;
+    padding:1.5rem;
+    border-radius:2.5rem;
+}
+
+.about {
+    padding-left:1rem;
+    padding-right:1rem;
+    font-size:1.25rem;
+}
